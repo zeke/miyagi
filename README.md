@@ -19,7 +19,7 @@ Once in development, the seed data can be refreshed (deleted and reinstated from
 
 ```bash
 $ brew install fontforge eot-utils ttfautohint
-$ rake font
+$ rake font:build
 ```
 
 ## Deploying to Heroku
